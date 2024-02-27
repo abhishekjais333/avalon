@@ -26,7 +26,7 @@ Search
   }
 
   return (
-    <div className=" relative w-full bg-white border border-black-500 ">
+    <div className="flex relative bg-white border border-black-500 ">
       <div className=" mx-auto flex max-w-9xl items-center px-4 py-2 sm:px-6 lg:px-8" >
       <div className="inline-flex items-center space-x-2">
           <span>
