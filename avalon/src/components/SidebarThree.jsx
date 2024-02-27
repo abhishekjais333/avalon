@@ -4,7 +4,7 @@ import { BarChart, Wallet, Newspaper, BellRing, Paperclip, LogIn } from 'lucide-
 function SidebarThree() {
   return (
     <aside className="flex h-screen w-64 flex-col overflow-y-auto border-r bg-white px-5 py-8">
-      
+      <h1 className='flex justify-center font-bold text-lg' >Topics</h1>
       <div className="mt-6 flex flex-1 flex-col justify-between">
         <nav className="-mx-3 space-y-6 ">
           <div className="space-y-3 ">
