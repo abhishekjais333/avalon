@@ -20,6 +20,12 @@ function SidebarThree() {
               className="flex transform items-center rounded-lg px-3 py-2 text-gray-600 transition-colors duration-300 hover:bg-gray-100 hover:text-gray-700"
               href="#"
             >
+                <span className="mx-2 text-sm font-medium">Module 2</span>
+            </a>
+            <a
+              className="flex transform items-center rounded-lg px-3 py-2 text-gray-600 transition-colors duration-300 hover:bg-gray-100 hover:text-gray-700"
+              href="#"
+            >
               
               <span className="mx-2 text-sm font-medium">Quiz 0</span>
             </a>
@@ -44,6 +50,7 @@ function SidebarThree() {
               className="flex transform items-center rounded-lg px-3 py-2 text-gray-600 transition-colors duration-300 hover:bg-gray-100 hover:text-gray-700"
               href="#"
             >
+                
               
               <span className="mx-2 text-sm font-medium">Quiz 1</span>
             </a>
@@ -74,7 +81,7 @@ function SidebarThree() {
           </div>
 
           <div className="space-y-3 ">
-            <label className="px-3 text-xs font-semibold uppercase text-gray-900">Level 3: Two letter word Training.</label>
+            <label className="px-3 text-xs font-semibold uppercase text-gray-900">Level 3: Color and Shapes.</label>
             <a
               className="flex transform items-center rounded-lg px-3 py-2 text-gray-600 transition-colors duration-300 hover:bg-gray-100 hover:text-gray-700"
               href="#"
@@ -124,7 +131,7 @@ function SidebarThree() {
           </div>
 
           <div className="space-y-3 ">
-            <label className="px-3 text-xs font-semibold uppercase text-gray-900">Level 5: Animals.</label>
+            <label className="px-3 text-xs font-semibold uppercase text-gray-900">Level 5: Animals Names.</label>
             <a
               className="flex transform items-center rounded-lg px-3 py-2 text-gray-600 transition-colors duration-300 hover:bg-gray-100 hover:text-gray-700"
               href="#"
