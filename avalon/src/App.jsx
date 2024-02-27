@@ -21,8 +21,10 @@ function App() {
     <Selectlang/>
     <Selectlang/>
     </div> */}
-    <SidebarThree/>
-    
+
+
+    {/* <SidebarThree/> */}
+    <Level/>
 
     
     </>
