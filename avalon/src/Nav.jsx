@@ -101,7 +101,7 @@ Search
                         />
                       </svg>
                     </span>
-                    <span className="font-bold">Gamify-LanG</span>
+                    <span className="font-bold">Gamify-Lan</span>
                   </div>
                   <div className="-mr-2">
                     <button
