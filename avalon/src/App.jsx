@@ -9,7 +9,17 @@ function App() {
     <>
     <h1 className='bg-red-900'></h1>
     <Nav/>
+    <div className=" justify-center flex gap-12">
     <Selectlang/>
+    <Selectlang/>
+    <Selectlang/>
+    <Selectlang/>
+    </div>
+    <div className=" justify-center flex gap-12">
+    <Selectlang/>
+    <Selectlang/>
+    </div>
+    
     </>
   )
 }
