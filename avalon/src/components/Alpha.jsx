@@ -15,19 +15,32 @@ function Alpha(){
     return(
         <>
         <Nav/>
-        <div className="flex w-64  ">
+        <div className="flex w-64 ">
             <div className="">
                 <SidebarThree/>
             </div>
-            <div className="flex justify-center h-[250px] m-10 mx-5">
+            <div className="w-[50] ">
+
+             <div className="flex justify-center h-[250px] m-10 mx-5 ">
              <Card />
              <Card />
              <Card />
              <Card />
              <Card />
+             <Card />
+            
+
+             
+
+             
+
+            
+            </div> 
+            
 
             
             </div>
+           
 
 
 
