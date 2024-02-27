@@ -2,13 +2,15 @@ import { useState } from 'react'
 import './App.css'
 import Nav from './Nav.jsx'
 import Selectlang from './components/Selectlang.jsx'
+import Level from './components/Level.jsx'
+import SidebarThree from './components/SidebarThree.jsx'
 function App() {
   const [count, setCount] = useState(0)
 
-  return (
+  return ( 
     <>
-    <h1 className='bg-red-900'></h1>
     <Nav/>
+    {/* <Nav/>
     <div className=" justify-center flex gap-12">
     <Selectlang/>
     <Selectlang/>
@@ -18,7 +20,10 @@ function App() {
     <div className=" justify-center flex gap-12">
     <Selectlang/>
     <Selectlang/>
-    </div>
+    </div> */}
+    <SidebarThree/>
+    
+
     
     </>
   )
