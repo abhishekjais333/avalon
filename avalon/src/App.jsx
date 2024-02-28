@@ -7,6 +7,8 @@ import SidebarThree from './components/SidebarThree.jsx'
 import Card from './components/Card.jsx'
 import Alpha from './components/Alpha.jsx'
 import Twoletter from './components/Twoletter.jsx'
+import Quiz from './components/Quiz.jsx'
+import Quizpage from './components/Quizpage.jsx'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -26,8 +28,11 @@ function App() {
     </div> */}
     
     {/* <Alpha/> */}
-    {/* <Level/> */}
-    <Twoletter/>
+    {/* <Nav/>
+    <Level/> */}
+    {/* <Twoletter/> */}
+    <Quizpage/>
+
 
     
     
