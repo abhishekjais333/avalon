@@ -11,7 +11,7 @@ function Card() {
         <h1 className='bg-black font-bold text-white items-center text-9xl self-center w-full px-11 rounded-sm'>A</h1>
         </div>
       
-        <div className="p-4">
+        <div className="p-4 ">
 
             <button
               type="button"

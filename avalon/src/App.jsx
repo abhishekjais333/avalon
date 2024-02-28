@@ -6,6 +6,7 @@ import Level from './components/Level.jsx'
 import SidebarThree from './components/SidebarThree.jsx'
 import Card from './components/Card.jsx'
 import Alpha from './components/Alpha.jsx'
+import Twoletter from './components/Twoletter.jsx'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -24,8 +25,10 @@ function App() {
     <Selectlang/>
     </div> */}
     
-    <Alpha/>
+    {/* <Alpha/> */}
     {/* <Level/> */}
+    <Twoletter/>
+
     
     
     </>

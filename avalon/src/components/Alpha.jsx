@@ -19,15 +19,18 @@ function Alpha(){
             <div className="">
                 <SidebarThree/>
             </div>
-            <div className="w-[50] ">
+            <div className=" ">
 
-             <div className="flex justify-center h-[250px] m-10 mx-5 ">
+             <div className="flex justify-center h-[250px] m-10 mx-5 w-[50]">
              <Card />
              <Card />
              <Card />
              <Card />
              <Card />
-             <Card />
+             <Card/>
+            
+             </div>
+             
             
 
              
@@ -43,8 +46,6 @@ function Alpha(){
            
 
 
-
-        </div>
         
         
         </>
