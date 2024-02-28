@@ -5,6 +5,7 @@ function Quizpage(){
     return(
         <>
         <Nav/>
+        <h1 className="flex justify-center text-3xl  font-bold self-center">Quiz</h1>
         <Quiz/>
         <Quiz/>
         <Quiz/>
